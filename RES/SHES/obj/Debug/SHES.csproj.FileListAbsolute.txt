@@ -1,0 +1,15 @@
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\SHES.exe.config
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\SHES.exe
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\SHES.pdb
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\Common.dll
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\EntityFramework.dll
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\Common.pdb
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\Common.dll.config
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\EntityFramework.xml
+C:\Users\ervin\Desktop\RES\SHES\obj\Debug\SHES.csprojAssemblyReference.cache
+C:\Users\ervin\Desktop\RES\SHES\obj\Debug\SHES.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Desktop\RES\SHES\obj\Debug\SHES.csproj.CopyComplete
+C:\Users\ervin\Desktop\RES\SHES\obj\Debug\SHES.exe
+C:\Users\ervin\Desktop\RES\SHES\obj\Debug\SHES.pdb
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ervin\Desktop\RES\SHES\bin\Debug\EntityFramework.SqlServer.xml
