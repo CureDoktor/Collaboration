@@ -1,0 +1,14 @@
+C:\Users\ervin\Desktop\RES\Common\bin\Debug\Common.dll.config
+C:\Users\ervin\Desktop\RES\Common\bin\Debug\Common.dll
+C:\Users\ervin\Desktop\RES\Common\bin\Debug\Common.pdb
+C:\Users\ervin\Desktop\RES\Common\bin\Debug\EntityFramework.dll
+C:\Users\ervin\Desktop\RES\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ervin\Desktop\RES\Common\bin\Debug\EntityFramework.xml
+C:\Users\ervin\Desktop\RES\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ervin\Desktop\RES\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Desktop\RES\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\ervin\Desktop\RES\Common\obj\Debug\Common.dll
+C:\Users\ervin\Desktop\RES\Common\obj\Debug\Common.pdb
+C:\Users\ervin\Desktop\RES\Common\obj\Debug\Common.Migrations.Migration.resources
+C:\Users\ervin\Desktop\RES\Common\obj\Debug\Common.csproj.GenerateResource.cache
+C:\Users\ervin\Desktop\RES\Common\obj\Debug\Common.csprojAssemblyReference.cache
